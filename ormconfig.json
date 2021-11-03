@@ -6,7 +6,7 @@
     "password": "xV8luGDyX8neN-N7q6S5hPeCFxYsu8Di",
     "database": "pdqxohrv",
     "entities": [
-       "src/app/models/*.ts"
+       "src/app/models/*"
     ],
     "migrations": [
        "src/database/migrations/*.ts"
